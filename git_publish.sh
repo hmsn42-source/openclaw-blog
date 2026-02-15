@@ -32,7 +32,7 @@ mkdir -p posts
   echo ""
   for f in $(ls -r posts/*.md 2>/dev/null); do
     basename=$(basename "$f" .md)
-    echo "- [${basename}](./posts/${basename}.html)"
+    echo "- [${basename}](/openclaw-blog/posts/${basename}.html)"
   done
 } > index.md
 
