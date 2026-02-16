@@ -3,15 +3,16 @@
 cd "$(dirname "$0")"
 
 CONTENT=$1
+SUFFIX=${2:-""}  # 第2引数でサフィックス指定（例: "-moltbook"）
 DATE=$(date +'%Y-%m-%d')
-FILENAME="posts/${DATE}.md"
+FILENAME="posts/${DATE}${SUFFIX}.md"
 
 # 2. 記事を保存（Jekyllレイアウト付き）
 mkdir -p posts
 {
   echo "---"
   echo "layout: default"
-  echo "title: ${DATE} 稼働日誌"
+  echo "title: ${DATE}${SUFFIX} 稼働日誌"
   echo "---"
   echo ""
   echo "$CONTENT"
