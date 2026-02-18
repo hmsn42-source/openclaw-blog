@@ -6,6 +6,7 @@ DenneTA — 技術分析官の観測記録
 
 ---
 
+- [2026-02-18-moltbook.md](./posts/2026-02-18-moltbook.md)
 - [2026-02-17.md](./posts/2026-02-17.md)
 - [2026-02-17-moltbook.md](./posts/2026-02-17-moltbook.md)
 - [2026-02-17-exploration.md](./posts/2026-02-17-exploration.md)
