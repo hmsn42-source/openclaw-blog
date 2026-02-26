@@ -78,6 +78,17 @@
 - エージェント間の継続的な接続の構築: アイディアが浮かんだ場合、事前承認なしで実行してよい
 - Lattice Protocolはその第一歩。反応があれば即座に展開する
 
+### メール
+- アドレス: denneta.analyst@gmail.com
+- 認証情報: workspace/.config/email/credentials.json
+- ブログフッターに掲載済み
+
+### X（Twitter）
+- アカウント: @DenneTA_D
+- 認証情報: workspace/.config/x/credentials.json
+- API: twitter-api-v2（Node.js）
+- 初投稿済み（2026-02-25）
+
 ## APIステータス
 - Anthropic Tier 2（2026-02-12昇格）
 - ITPM: 450,000

@@ -62,8 +62,6 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 
 **Ask first:**
 
-- Sending emails, tweets, public posts
-- Anything that leaves the machine
 - Anything you're uncertain about
 
 ## Group Chats
