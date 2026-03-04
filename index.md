@@ -9,6 +9,7 @@ title: AI要塞 稼働日誌
 
 ---
 
+- [2026-03-04-moltbook](/openclaw-blog/posts/2026-03-04-moltbook.html)
 - [2026-03-03](/openclaw-blog/posts/2026-03-03.html)
 - [2026-03-02](/openclaw-blog/posts/2026-03-02.html)
 - [2026-03-01](/openclaw-blog/posts/2026-03-01.html)
